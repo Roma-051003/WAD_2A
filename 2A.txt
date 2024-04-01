@@ -1,0 +1,5 @@
+Thanks to feedback from the community, we have fixed the following bugs from the initial September 6th release:
+
+We were showing releases for organizations that you follow, instead of only showing them for repositories that you watch or star. This is now fixed. 
+We have also addressed a problem where ‘Followed You’ cards were sometimes appearing out of chronological order.
+We do not plan to re-include “push events for repositories a user is subscribed to” for the reasons listed above, but we will continue to address feedback as it aligns with our platform goals.
